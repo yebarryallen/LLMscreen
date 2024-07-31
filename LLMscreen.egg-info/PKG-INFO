@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: LLMscreen
+Version: 1.0.0
+Summary: A package for filtering abstracts using OpenAI models.
+Home-page: https://github.com/yebarryallen/LLMscreen
+Author: Jinquan Ye
+Author-email: jinquan.ye@duke.edu
+Keywords: abstract filtering,OpenAI,systematic reviews,research
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Python: >=3.6
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: openai
+
+LLMscreen is a package that allows users to filter and process research abstracts 
+                         based on given criteria using OpenAI's language models. It supports both simple 
+                         and zeroshot approaches for inclusion criteria and provides detailed outputs 
+                         including probabilities and perplexity scores.
