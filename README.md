@@ -9,7 +9,7 @@
 
 ## Overview
 
-`LLMscreen` is a package designed to filter and process research abstracts based on given criteria using OpenAI's language models. It supports both simple and zeroshot approaches for inclusion criteria and provides detailed outputs including probabilities and perplexity scores.
+`LLMscreen` is a package designed to filter and process research abstracts based on given criteria using OpenAI's language models. It supports both simple, parameter-based and zeroshot approaches for inclusion criteria and provides detailed outputs including probabilities and perplexity scores.
 
 ## Installation
 
