@@ -1,0 +1,38 @@
+ Only studies that performed viral metagenomic sequencing in specimens from farm animals were included.
+
+Inclusion Criteria for Abstract and Title Screening:
+Study Type:
+
+The study must be original research that involves viral metagenomic sequencing.
+Excludes conference abstracts, reviews, editorials, and commentaries.
+Language:
+
+The study must be published in English.
+Animal Focus:
+
+The study must involve common livestock, specifically cattle, small ruminants (goats and sheep), poultry, and pigs.
+Methodology:
+
+The study must use metagenomic Next-Generation Sequencing (mNGS) to analyze viral diversity.
+Data Reporting:
+
+The study must report original data related to viral metagenomics in farm animals.
+Specimen Type:
+
+The study should include samples taken from farm animals.
+Exclusion Criteria for Abstract and Title Screening:
+Non-English Studies:
+
+Any study not published in English.
+Non-Original Research:
+
+Review articles, editorials, commentaries, and conference abstracts.
+Irrelevant Species:
+
+Studies that do not focus on the specified livestock (cattle, small ruminants, poultry, and pigs).
+Non-Metagenomic Methods:
+
+Studies that do not use mNGS for viral detection.
+Lack of Data:
+
+Studies that do not present original data on viral metagenomics in farm animals.
