@@ -7,6 +7,10 @@
 [![Website](https://img.shields.io/badge/Website-Jinquan_Ye-red)](https://jinquanyescholar.netlify.app)
 
 
+## Important Note
+
+Note: `LLMscreen` is a single Python function that is part of our larger Python package, `LLMeta`. [LLMeta](https://github.com/yebarryallen/LLMeta) utilizes large language models (LLMs) to extract information from research papers, streamlining the systematic review process. We are currently in the process of incorporating LLMscreen into the LLMeta package. However, you can still use the LLMscreen package for demonstration purposes. Stay tuned for updates as we enhance the integration!
+
 ## Overview
 
 `LLMscreen` is a package designed to filter and process research abstracts based on given criteria using OpenAI's language models. It supports both simple, parameter-based and zeroshot approaches for inclusion criteria and provides detailed outputs including probabilities and perplexity scores.
