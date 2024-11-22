@@ -9,7 +9,7 @@
 
 ## Important Note
 
-Note: `LLMscreen` is a single Python function that is part of our larger Python package, `LLMeta`. [LLMeta](https://github.com/yebarryallen/LLMeta) utilizes large language models (LLMs) to extract information from research papers, streamlining the systematic review process. We are currently in the process of incorporating LLMscreen into the LLMeta package. However, you can still use the LLMscreen package for demonstration purposes. Stay tuned for updates as we enhance the integration!
+Note: `LLMscreen` is a single Python function that is part of our larger Python package, `LLMeta`. [LLMeta](https://github.com/yebarryallen/LLMeta) utilizes large language models (LLMs) to extract information from research papers, streamlining the systematic review process. We are currently in the process of incorporating `LLMscreen` into the `LLMeta` package. However, you can still use the `LLMscreen` package for demonstration purposes. Stay tuned for updates as we enhance the integration!
 
 ## Overview
 
